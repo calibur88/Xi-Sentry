@@ -10,7 +10,7 @@ Universal Academic Open Intellectual Property License Agreement
 
 ### 第1条：协议范围 | Article 1: Scope of Agreement
 
-本协议适用于 **希-哨兵** 的全部知识产权，包括但不限于：  
+本协议适用于 **Xi-哨兵** 的全部知识产权，包括但不限于：  
 This Agreement applies to all intellectual property of the **Xi-Sentry**, including but not limited to:
 
 1. **理论体系**：项目相关的理论模型、算法框架、方法论  
