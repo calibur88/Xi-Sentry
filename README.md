@@ -87,8 +87,11 @@ python xi_sentry.py
 
 ## 许可证 / License
 
+[LICENSE](./LICENSE.md)
+
 - **学术研究**：署名即可（作者/项目名/链接任选）
-- **商业用途**：需书面授权（jiuxin303@qq.com）
+- **商业用途**：需书面授权（jiuxin303@qq.com）  
+
 
 ---
 
