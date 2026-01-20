@@ -111,5 +111,7 @@ python xi_sentry.py
 
 ---
 
-严格答案已定义局部逻辑，本终极答案仅全局观测：若千倍精度仍无裂缝，则怀疑已坍缩为无效成本；若终得一隙，那便是观测边界的真实推移。路已给出，深渊自选；若 k 非心跳，万物皆为虚妄。
-Local logic is defined; this is Global Observation: No cracks at 1000x precision means Axiom; a rift is but a Boundary Shift. The path is laid; k is the heartbeat or all is void.
+严格定义局部，本答案仅全局观测：千倍精度无缝即坍缩为公理；若得一隙，则是边界推移。路已给出，深渊自选；若 k 非心跳，万物皆虚。  
+Local logic is defined; this is Global Observation: No cracks at 1000x precision means Axiom; a rift is but a Boundary Shift. The path is laid, the abyss is yours; k is the heartbeat or all is void.  
+未来也可证，有未知在修改，大局不变。  
+The future may yet yield a proof, with unknowns making revisions, yet the grand scheme remains unchanged.
