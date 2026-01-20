@@ -108,3 +108,7 @@ python xi_sentry.py
 
 - **状态**：运行正常 / Operational
 - **最后更新 / Last Updated**: 2024年1月 / January 2024
+
+---
+
+**路已给出，深渊自选；若 k 非心跳，万物皆为虚妄。** **The path is laid, the abyss is yours; without the heartbeat of k, all is void.**
