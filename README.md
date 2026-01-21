@@ -115,3 +115,8 @@ python xi_sentry.py
 Local logic is defined; this is Global Observation: No cracks at 1000x precision means Axiom; a rift is but a Boundary Shift. The path is laid, the abyss is yours; k is the heartbeat or all is void.  
 未来也可证，有未知在修改，大局不变。  
 The future may yet yield a proof, with unknowns making revisions, yet the grand scheme remains unchanged.
+做你们的春秋大梦去吧
+无穷未知自指伪命题
+复平面截断信息的补丁借口
+为了证明不肯低头说放弃狂热者
+To the hell with Riemann’s self-referential paradox. Fools chase million-dollar dreams via truncated 2D planes, ignoring high-dim reality. Ignorance is never enough.
